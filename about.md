@@ -15,7 +15,7 @@ layout: page
 <ul>
 	<li>Electronic Data Capture (EDC) system development (OpenClinica)</li>
 	<li>Electronic Medical Record (EMR) system development(Open EMR)</li>
-	<li><a href = https://github.com/joomyung/FoodChecker>Alexa Skill development</a></li>
+	<li><a href = https://github.com/joomyung/FoodChecker>Alexa skill development</a></li>
 </ul>
 
 <h2>Interests</h2>
