@@ -2,9 +2,6 @@
 title: Contacts
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
-
-<p>Joomyung (Matt) Song is a software engineer and clinical data specialist.</p>
 
 <h2>Phone</h2>
 <ul>
