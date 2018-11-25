@@ -15,7 +15,7 @@ layout: page
 <ul>
 	<li>Electronic Data Capture (EDC) system development</li>
 	<li>Electronic Medical Record (EMR) system development</li>
-	<li><a href = https://github.com/joomyung/FoodChecker>Alexa skill development</a></li>
+	<li>Alexa skill development</li>
 </ul>
 
 <h2>Interests</h2>

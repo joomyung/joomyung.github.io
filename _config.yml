@@ -1,5 +1,5 @@
 # main text of home
-name: Joomyung Song
+name: Joomyung (Matt) Song
 bio: Software Engineer | Clinical Data Specialist
 
 # twitter summary info
@@ -82,6 +82,7 @@ projects: false
 # if you don't need "about" or "blog", comment them out below
 about: true
 blog: false
+contacts: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
