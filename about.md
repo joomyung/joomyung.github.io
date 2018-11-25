@@ -11,6 +11,7 @@ layout: page
 <ul class="skill-list">
 	<li>Electronic Data Capture</li>
 	<li>Electronic Medical Record</li>
+</ul>
 
 <h2>Projects</h2>
 
