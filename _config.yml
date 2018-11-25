@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/images/resume.pdf
+resume-url: assets/images/JoomyungMattSong_Resume.pdf
 
 url: https://joomyung.github.io
 # your url: http://USERNAME.github.io
