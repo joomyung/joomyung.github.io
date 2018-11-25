@@ -29,16 +29,16 @@ layout: page
 	<li>Google Cloud Platform (GCP)</li>
 </ul>
 
+<h2>Languages</h2>
+<ul>
+	<li>Korean</li>
+	<li>English</li>
+</ul>
+
 <h2>Interests</h2>
 <ul>
 	<li>Robotics and Arduino</li>
 	<li>Artificial Intelligence and Machine Learning</li>
 	<li>Computer Vision and Natural Language Processing</li>
 	<li>Motor Control and Learning</li>
-</ul>
-
-<h2>Languages</h2>
-<ul>
-	<li>Korean</li>
-	<li>English</li>
 </ul>

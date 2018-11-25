@@ -12,3 +12,8 @@ layout: page
 <ul>
 	<li>songjoomyung@gmail.com</li>
 </ul>
+
+<h2>Location</h2>
+<ul>
+	<li><a href="https://goo.gl/maps/btn7sxpDrhz">Gardena, CA</a></li>
+</ul>
