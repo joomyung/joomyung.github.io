@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Joomyung (Matt) Song is a software engineer and clinical data specialist.</p>
+<p>Joomyung (Matt) Song is a software engineer and clinical data specialist. Matt first came to Southern California from South Korea in the winter, 2012. In South Korea, Matt received a Bachelor of Science degree in Mechanical Engineering at Yonsei University, Seoul. Matt also led a squad of observers in the Demilitarized Zone to report activity of North Korean army. Matt wanted to live a new life in the United States. Matt began to seek what can excite him and how he can contribute to community and society while managing a women's clothing store in Santa Ana, CA. Matt saw many people in the US including his family did not receive sufficient healthcare support. Matt decided to amend the US health care system with his engineering skills. The motivation enabled him to manage three works at the same time. Matt started to work in the clinical research industry while volunteering in the Computational Neuro-Rehabilitation Lab and Brain-Body Dynamics Lab and earning the Master of Science degree in Biomedical Engineering at University of Southern California in Los Angeles, CA. Matt has been advancing his software engineering skills since then. </p>
 
 <h2>Certifications</h2>
 <ul>
