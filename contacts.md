@@ -15,12 +15,12 @@ layout: page
 
 <h2>LinkedIn</h2>
 <ul>
-	<li><a href="http://linkedin.com/in/{{ site.linkedin }}">LinkedIn</a></li>
+	<li><a href="https://linkedin.com/in/{{ site.linkedin }}" target="_blank">https://linkedin.com/in/joomyung</a></li>
 </ul>
 
 <h2>GitHub</h2>
 <ul>
-	<li><a href="https://github.com/{{ site.github }}">GitHub</a></li>
+	<li><a href="https://github.com/{{ site.github }}" target="_blank">https://linkedin.com/in/joomyung</a></li>
 </ul>
 
 <h2>Location</h2>
