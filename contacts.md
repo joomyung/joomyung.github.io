@@ -25,5 +25,5 @@ layout: page
 
 <h2>Location</h2>
 <ul>
-	<li><a href="https://goo.gl/maps/btn7sxpDrhz">Gardena, California</a></li>
+	<li><a href="https://goo.gl/maps/btn7sxpDrhz" target="_blank">Gardena, California</a></li>
 </ul>
