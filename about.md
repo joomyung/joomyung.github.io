@@ -2,6 +2,16 @@
 title: About
 layout: page
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-130101375-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-130101375-1');
+</script>
+
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>Joomyung (Matt) Song is a software engineer and clinical data specialist.</p>
