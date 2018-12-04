@@ -42,8 +42,8 @@ layout: page
 
 <h2>Languages</h2>
 <ul>
-	<li>Korean</li>
 	<li>English</li>
+	<li>Korean</li>
 </ul>
 
 <h2>Interests</h2>
