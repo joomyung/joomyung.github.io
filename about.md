@@ -37,6 +37,7 @@ layout: page
 	<li>Linux Ubuntu</li>
 	<li>Amazon Web Service (AWS)</li>
 	<li>Google Cloud Platform (GCP)</li>
+	<li>Robot Operating System (ROS)</li>
 </ul>
 
 <h2>Languages</h2>
