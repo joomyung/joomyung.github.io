@@ -14,7 +14,7 @@ layout: page
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Joomyung (Matt) Song is a software engineer and clinical data specialist.</p>
+<p>Joomyung (Matt) Song is a clinical data specialist.</p>
 
 <h2>Certifications</h2>
 <ul>
