@@ -14,18 +14,21 @@ layout: page
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Joomyung (Matt) Song is a clinical data specialist.</p>
+<p>Clinical data specialist with technical, administrative, and project management skills. My specialties are good clinical practice (GCP), clinical data management (CDM), electronic case report forms (eCRFs) design, electronic data capture (EDC), electronic medical records (EMR), and IT asset management.</p>
 
 <h2>Certifications</h2>
 <ul>
 	<li>Certified Clinical Research Professional (CCRP)</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Specialties</h2>
 <ul>
-	<li>Electronic Data Capture (EDC) system development</li>
-	<li>Electronic Medical Record (EMR) system development</li>
-	<li>Alexa skill development</li>
+	<li>Good Clinical Practice (GCP)</li>
+	<li>Clinical Data Management (CDM)</li>
+	<li>Electronic Case Report Forms (eCRFs) Design</li>
+	<li>Electronic Data Capture (EDC) system</li>
+	<li>Electronic Medical Record (EMR) system</li>
+	<li>IT Asset Management</li>
 </ul>
 
 <h2>Skills</h2>
@@ -37,7 +40,6 @@ layout: page
 	<li>Linux Ubuntu</li>
 	<li>Amazon Web Service (AWS)</li>
 	<li>Google Cloud Platform (GCP)</li>
-	<li>Robot Operating System (ROS)</li>
 </ul>
 
 <h2>Languages</h2>
