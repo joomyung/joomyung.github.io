@@ -13,11 +13,6 @@ layout: page
   gtag('config', 'UA-130101375-1');
 </script>
 
-<h2>Phone</h2>
-<ul>
-	<li>(714) 887-9141</li>
-</ul>
-
 <h2>E-mail</h2>
 <ul>
 	<li><a href="mailto:{{ site.email }}">songjoomyung@gmail.com</a></li>
@@ -35,5 +30,5 @@ layout: page
 
 <h2>Location</h2>
 <ul>
-	<li><a href="https://goo.gl/maps/btn7sxpDrhz" target="_blank">Gardena, California</a></li>
+	<li><a href="https://goo.gl/maps/btn7sxpDrhz" target="_blank">Torrance, California</a></li>
 </ul>
