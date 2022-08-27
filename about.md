@@ -14,44 +14,36 @@ layout: page
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Clinical data specialist with technical, administrative, and project management skills. My specialties are good clinical practice (GCP), clinical data management (CDM), electronic case report forms (eCRFs) design, electronic data capture (EDC), electronic medical records (EMR), and IT asset management.</p>
+<p>Data Science and Software Engineer with 5+ years of experience and 60+ clinical research studies in the medical device and pharmaceutical industry, creating innovations to accelerate safe and effective medical device and drug development to help patients live better.</p>
 
-<h2>Certifications</h2>
+<h2>Education</h2>
 <ul>
-	<li>Certified Clinical Research Professional (CCRP)</li>
+	<li>MS in Biomedical Engineering at University of Southern California</li>
+	<li>BS in Mechanical Engineering at Yonsei University</li>
 </ul>
 
-<h2>Specialties</h2>
+<h2>Licenses & Certifications</h2>
 <ul>
-	<li>Good Clinical Practice (GCP)</li>
-	<li>Clinical Data Management (CDM)</li>
-	<li>Electronic Case Report Forms (eCRFs) Design</li>
-	<li>Electronic Data Capture (EDC) system</li>
-	<li>Electronic Medical Record (EMR) system</li>
-	<li>IT Asset Management</li>
+	<li>Spark NLP Data Scientist Certification</li>
+	<li>Spark NLP Healthcare Data Scientist Certification</li>
+	<li>Certification for Clinical Research Professional</li>
 </ul>
 
 <h2>Skills</h2>
 <ul>
-	<li>MATLAB</li>
-	<li>Python</li>
-	<li>JavaScript</li>
-	<li>Git/Github</li>
-	<li>Linux Ubuntu</li>
-	<li>Amazon Web Service (AWS)</li>
-	<li>Google Cloud Platform (GCP)</li>
+	<li>Python, SQL, JavaScript, SAS, R, MATLAB</li>
+	<li>NLP, OCR, Git, Linux, AWS, GCP, Azure, Power BI, Tableau</li>
 </ul>
 
 <h2>Languages</h2>
 <ul>
-	<li>English</li>
-	<li>Korean</li>
+	<li>English, Korean</li>
 </ul>
 
 <h2>Interests</h2>
 <ul>
-	<li>Robotics and Arduino</li>
 	<li>Artificial Intelligence and Machine Learning</li>
 	<li>Computer Vision and Natural Language Processing</li>
+	<li>Robotics and Arduino</li>
 	<li>Motor Control and Learning</li>
 </ul>

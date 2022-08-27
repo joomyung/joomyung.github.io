@@ -25,10 +25,10 @@ layout: page
 
 <h2>GitHub</h2>
 <ul>
-	<li><a href="https://github.com/{{ site.github }}" target="_blank">https://linkedin.com/in/joomyung</a></li>
+	<li><a href="https://github.com/{{ site.github }}" target="_blank">https://github.com/joomyung</a></li>
 </ul>
 
 <h2>Location</h2>
 <ul>
-	<li><a href="https://goo.gl/maps/btn7sxpDrhz" target="_blank">Torrance, California</a></li>
+	<li><a href="https://goo.gl/maps/SgtFp6PZHsK7FXhz5" target="_blank">Torrance, California</a></li>
 </ul>
