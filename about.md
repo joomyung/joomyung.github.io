@@ -24,6 +24,7 @@ layout: page
 
 <h2>Licenses & Certifications</h2>
 <ul>
+	<li><a href="https://www.parchment.com/u/award/4a23595997aaf93d46daff875cc219e1">UC Irvine Data Science Certificate</a></li>
 	<li>Spark NLP Data Scientist Certification</li>
 	<li>Spark NLP Healthcare Data Scientist Certification</li>
 	<li>Certification for Clinical Research Professional</li>
